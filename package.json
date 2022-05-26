@@ -1,0 +1,22 @@
+{
+  "name": "tsdc_testing_strategy",
+  "version": "1.0.0",
+  "description": "Test strategy for Ghost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcastromiso/tsdc_testing_strategy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcastromiso/tsdc_testing_strategy/issues"
+  },
+  "homepage": "https://github.com/dcastromiso/tsdc_testing_strategy#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.1.0"
+  }
+}
